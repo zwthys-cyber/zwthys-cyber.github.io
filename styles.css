@@ -5,3 +5,5 @@
 .filter,.search input,.result-caption,.card-source,.card-links,.category-label,.tile-label,.board-tile small,.board-caption,.board-label,.board-footer,.board-footer>span:last-child,.hero-meta,.release-file,.release-meta,.release-version,.release-actions .button,.release-actions .text-link,.guide-tag,.guide-action,.footer p,.footer-right,.footer-brand span,.outline-label,.eyebrow,.section-heading .eyebrow,.text-link,.download-note>.text-link{font-size:.875rem}
 .search input{font-size:1rem}.project-card p{-webkit-line-clamp:3}.board-top,.board-footer{flex-wrap:wrap}.card-top{align-items:flex-start}.category-label{text-align:right}.brand-sub{font-size:.75rem}
 @media(max-width:720px){.brand-sub{display:none}.brand{font-size:1rem}.project-grid{grid-template-columns:1fr}.project-card{min-height:240px}.card-footer{flex-direction:row;align-items:center}.hero-meta>span:last-child{width:100%}.guide-grid{grid-template-columns:1fr}.board-tile{padding:17px 14px}.board-tile small{line-height:1.6}.section-description{font-size:1rem}.footer-right{font-size:.875rem}}
+
+@media(max-width:720px){nav{font-size:.875rem;gap:14px}}
